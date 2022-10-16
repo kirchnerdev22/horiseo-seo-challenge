@@ -41,7 +41,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Changes the color of the buttons so they stand out against the header */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* Styles and sizes the aise/sidebar and matches the font family with the buttons in my header */
+/* Styles and sizes the aside, and matches the font family with the buttons in my header */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* The class element selectors on this page from line 90 to line 136 help the aside bar stand out frm the rest of the page and give it a clean and page-themed look. */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
